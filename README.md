@@ -29,15 +29,6 @@ Welcome to my GitHub! I'm a passionate software developer who loves building rea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirErfan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirErfan&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🚀 What I'm Up To
 
 - 🎯 **Currently focusing on:** Fullstack Development + AI Integration
