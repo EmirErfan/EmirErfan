@@ -2,7 +2,7 @@
 ### (yes, another CS student with a GitHub profile nobody asked for)
 
 <p align="left">
-  📍 Selangor, Malaysia &nbsp;|&nbsp; ☕ Powered by caffeine and Stack Overflow
+  📍 Selangor, Malaysia &nbsp;|&nbsp; ☕ Powered by caffeine
 </p>
 
 *Final Year Student | 💻 Aspiring Software / AI Engineer | 🐱 Professional Cat Appreciator*
@@ -14,7 +14,6 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 ---
 
 ## 🛠️ Technologies & Tools
-### (things I pretend to know in interviews)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,7 +50,7 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 - 🌱 **Learning:** DevOps, System Design & Scalable Architecture *(YouTube tutorials at 2am)*
 - 🐛 **Also learning:** That console.log() is not a debugging strategy *(it totally is)*
 - 🤝 **Open to:** Collaborations, internships, and anyone who can explain Docker networking to me
-- 🐱 **Side quest:** Convincing my cat to review my PRs. She just sits on the keyboard. Ship it.
+- 🐱 **Side quest:** Convincing the stray cat to review my PRs.
 
 ---
 
@@ -62,12 +61,12 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 09:15  🔥  Write 10 lines of code.
 09:16  💀  Break everything.
 09:17  🙏  Google "how to undo everything in git"
-12:00  🍛  Nasi lemak break. Feeling hopeful.
+12:00  🍛  Lunch break.
 13:00  🐛  One bug fixed. Three new bugs unlocked.
 17:00  😤  "I'll just do one more fix..."
 23:59  😭  It's still not working.
 00:00  ✅  git commit -m "fix" && git push
-00:01  🛌  Pray CI passes. Sleep.
+00:01  🛌  Pray. Sleep.
 ```
 
 ---
