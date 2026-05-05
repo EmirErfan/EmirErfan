@@ -33,16 +33,6 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 
 ---
 
-## 📊 GitHub Stats
-### (please don't judge the commit messages)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirErfan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirErfan&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🚀 What I'm Currently Doing
 ### (besides crying about deadlines)
 
