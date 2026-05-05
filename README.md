@@ -1,16 +1,20 @@
-# Hi there, I'm Emir Erfan! 👋
+# Hi, I'm Emir Erfan! 👋 
+### (yes, another CS student with a GitHub profile nobody asked for)
 
 <p align="left">
-  📍 Selangor, Malaysia &nbsp;|&nbsp; 💡 Passionate about building real-world systems
+  📍 Selangor, Malaysia &nbsp;|&nbsp; ☕ Powered by caffeine and Stack Overflow
 </p>
 
-*Final Year Student | 💻 Aspiring Software / AI Engineer*
+*Final Year Student | 💻 Aspiring Software / AI Engineer | 🐱 Professional Cat Appreciator*
 
-Welcome to my GitHub! I'm a passionate software developer who loves building real-world systems at the intersection of **Fullstack Development** and **AI**. I enjoy crafting seamless user experiences on the frontend and architecting solid, scalable systems on the backend.
+I'm a passionate developer who spends 20% of my time writing code and 80% Googling why my code doesn't work. I build real-world systems with **Laravel, React & AI** — and occasionally they even work on the first try (citation needed).
+
+> *"It works on my machine"* — Me, always, forever.
 
 ---
 
 ## 🛠️ Technologies & Tools
+### (things I pretend to know in interviews)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -25,22 +29,52 @@ Welcome to my GitHub! I'm a passionate software developer who loves building rea
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 What I'm Up To
+## 📊 GitHub Stats
+### (please don't judge the commit messages)
 
-- 🎯 **Currently focusing on:** Fullstack Development + AI Integration
-- 🌱 **Learning:** DevOps, System Design & Scalable Architecture
-- 🤝 **Open to:** Collaborating on interesting projects and open-source contributions
-- 🐱 Cat lover
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirErfan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirErfan&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🚀 What I'm Currently Doing
+### (besides crying about deadlines)
+
+- 🎯 **Focusing on:** Fullstack Development + AI Integration *(so the AI can fix my bugs)*
+- 🌱 **Learning:** DevOps, System Design & Scalable Architecture *(YouTube tutorials at 2am)*
+- 🐛 **Also learning:** That console.log() is not a debugging strategy *(it totally is)*
+- 🤝 **Open to:** Collaborations, internships, and anyone who can explain Docker networking to me
+- 🐱 **Side quest:** Convincing my cat to review my PRs. She just sits on the keyboard. Ship it.
+
+---
+
+## 💀 My Typical Day
+
+```
+09:00  ☕  Coffee acquired. Ready to code.
+09:15  🔥  Write 10 lines of code.
+09:16  💀  Break everything.
+09:17  🙏  Google "how to undo everything in git"
+12:00  🍛  Nasi lemak break. Feeling hopeful.
+13:00  🐛  One bug fixed. Three new bugs unlocked.
+17:00  😤  "I'll just do one more fix..."
+23:59  😭  It's still not working.
+00:00  ✅  git commit -m "fix" && git push
+00:01  🛌  Pray CI passes. Sleep.
+```
 
 ---
 
 ## 🌐 Let's Connect!
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
+I'm always open to cool project ideas, tech discussions, or memes about why PHP gets so much hate (I use Laravel okay, it's different).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmademirerfan">
@@ -53,31 +87,46 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-## 🎉 Fun Fact
+## 🎉 Fun Facts
 
 ```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class FinalYearStudent:
 
     def __init__(self):
-        self.name       = "Emir Erfan"
-        self.role       = "Aspiring Software / AI Engineer"
-        self.stack      = ["React", "Node.js", "Laravel", "Tailwind", "AI"]
-        self.location   = "Selangor, Malaysia 🇲🇾"
-        self.learning   = ["DevOps", "System Design", "Scalable Architecture"]
-        self.cat_lover  = True  # 🐱
+        self.name           = "Emir Erfan"
+        self.role           = "Aspiring Software / AI Engineer"
+        self.stack          = ["React", "Node.js", "Laravel", "Tailwind", "AI"]
+        self.location       = "Selangor, Malaysia 🇲🇾"
+        self.current_mood   = "404: Sleep Not Found"
+        self.cat_loyalty    = float('inf')  # 🐱
+        self.bugs_created   = 9999
+        self.bugs_fixed     = 9998  # net positive!
+        self.git_messages   = ["fix", "fix2", "fix FINAL", "fix FINAL v2",
+                               "ok this is actually the last one", "pls work"]
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together.")
+    def debug(self):
+        print("Have you tried turning it off and on again?")
+        print("...no seriously that's my entire strategy")
 
-me = SoftwareEngineer()
-me.say_hi()
+    def ask_for_help(self):
+        return "StackOverflow" if self.coffee > 0 else "cry()"
+
+me = FinalYearStudent()
+me.debug()
+# Output: Have you tried turning it off and on again?
+#         ...no seriously that's my entire strategy
 ```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmirErfan&color=blue&style=flat-square&label=Profile+Views"/>
+  <i>If my code works, I don't know why. If it doesn't, I also don't know why.</i><br/>
+  <b>— Emir Erfan, probably</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmirErfan&color=blue&style=flat-square&label=People+who+visited+%28and+judged+me%29"/>
 </p>
