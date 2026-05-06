@@ -2,7 +2,7 @@
 ### (yes, another CS student with a GitHub profile nobody asked for)
 
 <p align="left">
-  📍 Selangor, Malaysia &nbsp;|&nbsp; ☕ Powered by caffeine
+  📍 Selangor, Malaysia &nbsp;|&nbsp; ☕ Powered by caffeine and Stack Overflow
 </p>
 
 *Final Year Student | 💻 Aspiring Software / AI Engineer | 🐱 Professional Cat Appreciator*
@@ -14,6 +14,7 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 ---
 
 ## 🛠️ Technologies & Tools
+### (things I pretend to know in interviews)
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,6 +34,16 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 
 ---
 
+## 📊 GitHub Stats
+### (please don't judge the commit messages)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirErfan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirErfan&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
 ## 🚀 What I'm Currently Doing
 ### (besides crying about deadlines)
 
@@ -40,7 +51,7 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 - 🌱 **Learning:** DevOps, System Design & Scalable Architecture *(YouTube tutorials at 2am)*
 - 🐛 **Also learning:** That console.log() is not a debugging strategy *(it totally is)*
 - 🤝 **Open to:** Collaborations, internships, and anyone who can explain Docker networking to me
-- 🐱 **Side quest:** Convincing the stray cat to review my PRs.
+- 🐱 **Side quest:** Convincing my cat to review my PRs. She just sits on the keyboard. Ship it.
 
 ---
 
@@ -51,12 +62,12 @@ I'm a passionate developer who spends 20% of my time writing code and 80% Googli
 09:15  🔥  Write 10 lines of code.
 09:16  💀  Break everything.
 09:17  🙏  Google "how to undo everything in git"
-12:00  🍛  Lunch break.
+12:00  🍛  Nasi lemak break. Feeling hopeful.
 13:00  🐛  One bug fixed. Three new bugs unlocked.
 17:00  😤  "I'll just do one more fix..."
 23:59  😭  It's still not working.
 00:00  ✅  git commit -m "fix" && git push
-00:01  🛌  Pray. Sleep.
+00:01  🛌  Pray CI passes. Sleep.
 ```
 
 ---
@@ -115,6 +126,16 @@ me.debug()
   <i>If my code works, I don't know why. If it doesn't, I also don't know why.</i><br/>
   <b>— Emir Erfan, probably</b>
 </p>
+
+---
+
+## ⚠️ Important Disclaimer
+
+> 🐺 That's Kindred in my profile picture. No, I am not a Kindred main.
+> I just think she looks cool. Please do not challenge me to a 1v1.
+> I will int. Thank you for understanding.
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmirErfan&color=blue&style=flat-square&label=People+who+visited+%28and+judged+me%29"/>
