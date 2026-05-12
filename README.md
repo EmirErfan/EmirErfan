@@ -3,7 +3,7 @@
 Final Year Computer Science student from Malaysia who enjoys building full-stack applications, experimenting with AI integrations, and turning random project ideas into something usable.
 
 <p align="left">
-  📍 Selangor, Malaysia
+  📍 Shah Alam, Selangor, Malaysia
 </p>
 
 ---
