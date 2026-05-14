@@ -1,6 +1,6 @@
 # Hi, I'm Emir Erfan 👋
 
-Final Year Computer Science student from Malaysia who enjoys building full-stack applications, experimenting with AI integrations, and turning random project ideas into something usable.
+Final Year Information System Engineering student from UiTM Jasin who enjoys building full-stack applications, experimenting with AI integrations, and love doing random project.
 
 📍 Shah Alam, Selangor, Malaysia
 
@@ -11,10 +11,8 @@ Final Year Computer Science student from Malaysia who enjoys building full-stack
 - 💻 Interested in Fullstack Development, AI Engineering, and scalable systems
 - 🛠 Mainly working with Laravel, React, Tailwind, and Node.js
 - 🌱 Currently learning DevOps, system design, and cloud technologies
-- 🤝 Open to internships, collaborations, and interesting project ideas
-- ☕ Powered by caffeine and questionable commit messages
-
-I enjoy building practical projects that solve real problems while continuously improving my development workflow and software engineering skills.
+- 🤝 Open to internships
+- ☕ Powered by caffeine
 
 ---
 
@@ -42,7 +40,7 @@ I enjoy building practical projects that solve real problems while continuously 
 
 ## 📌 Current Focus
 
-- Building full-stack web applications with modern frameworks
+- Learning to build full-stack web applications with modern frameworks
 - Exploring AI-powered systems and automation tools
 - Learning DevOps and deployment workflows
 - Improving problem-solving skills through personal projects and coding challenges
@@ -78,7 +76,7 @@ I enjoy building practical projects that solve real problems while continuously 
 class EmirErfan:
 
     def __init__(self):
-        self.role = "Aspiring Software / AI Engineer"
+        self.role = "Aspiring Software"
         self.languages = ["JavaScript", "PHP", "Python"]
         self.current_status = "Debugging something again"
         self.commit_message = "fix-final-v2-real"
@@ -87,7 +85,7 @@ class EmirErfan:
         return [
             "Write code",
             "Break code",
-            "Search Stack Overflow",
+            "Ask ChatGPT",
             "Repeat"
         ]
 ```
