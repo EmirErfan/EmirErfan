@@ -93,7 +93,7 @@ class EmirErfan:
 ---
 
 <p align="center">
-  <i>"Still learning, still building."</i>
+  <i>"Once I find my kindred spirit, I’ll never let them go"</i>
 </p>
 
 <p align="center">
