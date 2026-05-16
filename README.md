@@ -38,7 +38,7 @@ Final Year Information System Engineering student from UiTM Jasin who enjoys bui
 
 ---
 
-## 📌 Current Focus
+## 📌Current Focus
 
 - Learning to build full-stack web applications with modern frameworks
 - Exploring AI-powered systems and automation tools
