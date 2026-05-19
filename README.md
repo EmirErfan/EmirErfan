@@ -10,7 +10,7 @@ Final Year Information System Engineering student from UiTM Jasin who enjoys bui
 
 - 💻 Interested in Fullstack Development, AI Engineering, and scalable systems
 - 🛠 Mainly working with Laravel, React, Tailwind, and Node.js
-- 🌱 Currently learning DevOps, system design, and cloud technologies
+- 🌱 Currently learning DevOps, Machine Learning, and cloud technologies
 - 🤝 Open to internships
 - ☕ Powered by caffeine
 
